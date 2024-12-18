@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirQualityApp</string>
+    <string name="openweather_api_key">API_KEY</string>
+</resources>
